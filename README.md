@@ -23,30 +23,29 @@ Java / Spring 기반으로 백엔드 개발을 공부하고 있고, 최근에는
 Java · Spring Boot · Spring MVC · JPA · REST API
 
 **Database**
-MySQL · SQL
-
-**Frontend**
-JavaScript · React · Next.js · Tailwind CSS
+PostgreSQL · Oracle RDBMS
 
 **AI / Data**
-Python · RAG · Vector DB · Spring AI
+Python · Spring AI
 
 **Tools**
-Git · GitHub · Docker · Notion
+Git · Docker · Notion
 
 ---
 
 ## Projects
 
-### Intery
+### Intery (2025.09~2025.12)
 
 인테리어 서비스 캡스톤 프로젝트
-PM / Backend
+- Spring Boot 
+- PM / Backend
 
-### Unicircle
+### Unicircle (2024.09~2024.12)
 
 동아리 커뮤니티 서비스
-Frontend
+- Next.js / Tailwind CSS
+- Frontend
 
 ---
 
