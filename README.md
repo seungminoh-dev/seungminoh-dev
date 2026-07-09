@@ -1,7 +1,8 @@
 # Seungmin Oh
 
 Backend Developer in progress.
-Java / Spring 기반으로 백엔드 개발을 공부하고 있고, 최근에는 AI/AX 서비스 개발 쪽으로도 확장 중입니다.
+
+Java / Spring 기반으로 Backend Developer를 지향합니다.
 
 ---
 
