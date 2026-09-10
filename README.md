@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:3b82f6&height=180&section=header&text=Seungmin%20Oh&fontSize=48&fontColor=ffffff&desc=Backend%20Developer&descSize=18&descAlignY=68)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:3b82f6&height=180&section=header&text=Seungmin%20Oh&fontSize=48&fontColor=ffffff&descSize=18&descAlignY=68)
 
 **Building reliable backend systems with Java, Spring, and AI.**
 
