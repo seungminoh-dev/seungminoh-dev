@@ -2,7 +2,7 @@
 
 
 
-**Building reliable backend systems with Java, Spring, and AI.**
+**Building reliable backend systems with Java/Spring, Python, and AI.**
 
 [![Email](https://img.shields.io/badge/contact@smoh.dev-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@smoh.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/seungminoh-dev)
