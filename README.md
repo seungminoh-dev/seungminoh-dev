@@ -1,6 +1,6 @@
 <div align="center">
 
-**Building and verifying AI applications with Spring and FastAPI.**
+**Building and verifying AI applications.**
 
 [![Email](https://img.shields.io/badge/contact@smoh.dev-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@smoh.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/seungminoh-dev)
